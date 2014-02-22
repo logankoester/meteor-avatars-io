@@ -2,7 +2,7 @@
 
 ![Avatars.IO](http://avatars.io/images/avatarsio_logo.png)
 
-A simple Meteor package for the [avatars.io](https://github.com/chute/avatars-io-node) npm module.
+A simple [Meteor](http://meteor.com/) package for the [avatars.io](https://github.com/chute/avatars-io-node) npm module.
 
 ## Install
 
@@ -20,7 +20,7 @@ Using Meteor's Package System:
 
     $ meteor add avatars.io
 		
-Using Meteorite:
+Using [Meteorite](http://oortcloud.github.io/meteorite/):
 
     $ mrt add avatars.io
 

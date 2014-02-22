@@ -1,0 +1,9 @@
+{
+  "name": "avatars.io",
+  "description": "Meteor client for the Avatars.io hosted user avatar service",
+  "homepage": "https://avatars.io",
+  "author": "Logan Koester <logan@logankoester.com> (http://logankoester.com)",
+  "version": "0.1.6",
+  "git": "https://github.com/logankoester/meteor-avatars-io.git",
+  "packages": {}
+}
